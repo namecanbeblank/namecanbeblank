@@ -11,7 +11,7 @@ I build content systems and AI-assisted workflows for marketing teams and agenci
 
 I use this profile to document the systems and tools I use, with examples and context on how they work.
 
-## Featured project
+## Featured projects
 
 [AI editorial review system](https://github.com/namecanbeblank/editorial-review-system) — a client-aware editor combining pattern checks, passage-level AI review, and a full-document audit. Includes a fictional example workspace.
 
