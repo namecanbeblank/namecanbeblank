@@ -19,3 +19,6 @@ I use this profile to document the systems and tools I use, with examples and co
 [SEO opportunity detector](https://github.com/namecanbeblank/seo-opportunity-detector) — a utility for identifying potential page-level SEO opportunities, with a fictional dataset for offline use.
 
 [Content strategy skills](https://github.com/namecanbeblank/content-strategy-skills) — reusable decision-closure and strategic-interpretation workflows.
+
+
+[Content update engine](https://github.com/namecanbeblank/content-update-engine) — an editorial workflow from prioritized content updates through research, quality checks, and human handoff.
