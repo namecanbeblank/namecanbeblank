@@ -22,3 +22,6 @@ I use this profile to document the systems and tools I use, with examples and co
 
 
 [Content update engine](https://github.com/namecanbeblank/content-update-engine) — an editorial workflow from prioritized content updates through research, quality checks, and human handoff.
+
+
+[AI crawler log analyzer](https://github.com/namecanbeblank/ai-crawler-log-analyzer) — a Python tool for reviewing AI-related crawler requests and response patterns in server logs.
