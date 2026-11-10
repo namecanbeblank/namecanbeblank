@@ -14,3 +14,8 @@ I use this profile to document the systems and tools I use, with examples and co
 ## Featured project
 
 [AI editorial review system](https://github.com/namecanbeblank/editorial-review-system) — a client-aware editor combining pattern checks, passage-level AI review, and a full-document audit. Includes a fictional example workspace.
+
+
+[SEO opportunity detector](https://github.com/namecanbeblank/seo-opportunity-detector) — a utility for identifying potential page-level SEO opportunities, with a fictional dataset for offline use.
+
+[Content strategy skills](https://github.com/namecanbeblank/content-strategy-skills) — reusable decision-closure and strategic-interpretation workflows.
